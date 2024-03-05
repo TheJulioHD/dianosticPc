@@ -1,0 +1,7 @@
+{
+  "name": "DianosticPc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
